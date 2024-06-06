@@ -22,10 +22,10 @@ const client = new Client({
 });
 
 const TOKEN = "";
-const TICKET_CHANNEL_ID = "1119852476053598219";
-const CATEGORY_ID = "1119961280040685569";
-const SUPPORT_ROLE_ID = "1119846870525681694";
-const TRANSCRIPT_CHANNEL_ID = "1246640831654526986";
+const TICKET_CHANNEL_ID = "";
+const CATEGORY_ID = "";
+const SUPPORT_ROLE_ID = "";
+const TRANSCRIPT_CHANNEL_ID = "";
 
 const cooldowns = new Map();
 
