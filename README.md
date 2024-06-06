@@ -13,13 +13,13 @@
 ## Install
 
 ```sh
-npm install
+git clone https://github.com/CodeWithTortoise/VPS-Nest-Ticket-Bot.git
 ```
 
 ## Usage
 
 ```sh
-node index.js
+npm install && node index.js
 ```
 
 ## Author
